@@ -51,7 +51,9 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 | Stumptown                   | yes      | [open (webpage)][9]  | Jan. 2013  | Stumptown recommended inverted [until switching][10] in 2015.                                            |
 | The Coffee Collective       | yes      | [open (webpage)][38] | Jan. 2010  | Inspired by Tim Wendelboe                                                                                |
 | Tim Wendelboe               | no       | [open (webpage)][19] | Oct. 2010  |                                                                                                          |
-| Walter's Coffee Roastery    | no       | [open (webpage)][48] |            |                                                                                                          |
+| Walter's Coffee Roastery    | no       | [open (webpage)][48] |            |
+| Gary Chau, Caffe Luxxe      | yes      | [open (webpage)][59] |            |
+| Jakub Hartl                 | yes      | [open (webpage)][60] | July 2012  | Germany AeroPress Championship 2012, 1st Place          
 
 <a href="#" id="contests"></a>
 
@@ -170,6 +172,8 @@ A collection of recipes for the many possible ways to brew coffee with an AeroPr
 [56]: http://sprudge.com/ben-jones-is-your-2016-us-aeropress-champion-98324.html
 [57]: https://alternativebrewing.com.au/product/ten-mile-stainless-steel-aeropress-filter/
 [58]: http://kohilabs.com/kohi-filter-for-aeropress/
+[59]: https://www.caffeluxxe.com/page/brew-guide-aeropress
+[60]: https://rohebohnen.de/en/brewing-methods/aeropress/
 
 [wac-2014-1]: http://www.worldaeropresschampionship.com/recipes/#/shuichi-sasaki/
 [wac-2014-2]: http://www.worldaeropresschampionship.com/recipes/#/martin-karabinos/
